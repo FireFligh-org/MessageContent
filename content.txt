@@ -139,7 +139,32 @@ stackoverflow to the rescue
 " It works on my computer! "
    Server crashed. Again.   
   code first, sleep later   
-zero errors, still panicking
+zero errors, still panicking.
      Ctrl+Z = god mode      
  I can fix it, maybe later  
     This is fine, right?    
+ No error? I don’t trust it 
+ Debugging is just guessing 
+  git commit -m "fixed it"  
+  This is definitely a bug  
+  StackOverflow saves lives 
+    I regret this commit    
+    coding at 2% battery    
+    cloud? more like fog    
+  just one more feature...  
+     no backup, no hope     
+       WHO BROKE IT?!?      
+Wi-Fi down send in the chips.
+   code review? just pain   
+   tab or spaces? FIGHT!!   
+  timeout? I'm out of time  
+    ran once, never again   
+    ctrl+alt+del my life    
+    keyboard broke itself   
+     " should be fine "     
+    syntax error? AGAIN?!   
+     WiFi left the chat     
+   the API betrayed me...   
+     I am the bug now...    
+     IT WORKED?? NO WAY     
+    codeing is suffering    
