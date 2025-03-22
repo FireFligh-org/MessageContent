@@ -154,7 +154,7 @@ zero errors, still panicking.
   just one more feature...  
      no backup, no hope     
        WHO BROKE IT?!?      
-Wi-Fi down send in the chips.
+Wi-Fi down send in the chips
    code review? just pain   
    tab or spaces? FIGHT!!   
   timeout? I'm out of time  
