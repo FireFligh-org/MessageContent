@@ -174,3 +174,5 @@ Wi-Fi down send in the chips
     syntax? what syntax?    
   turn it off and on again  
    code works... for now    
+       code: 1, me: 0       
+     ctrl+s, my savior      
