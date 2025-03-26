@@ -175,4 +175,3 @@ Wi-Fi down send in the chips
   turn it off and on again  
    code works... for now    
        code: 1, me: 0       
-     ctrl+s, my savior      
